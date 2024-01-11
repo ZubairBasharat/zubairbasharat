@@ -1,5 +1,5 @@
 ### Hi 👋 I am Zubair Basharat
-**A passionate Software Engineer from Lahore,Pakistan**
+**A passionate Software Engineer**
 
 
 **Bio**
