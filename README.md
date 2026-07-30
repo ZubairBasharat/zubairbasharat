@@ -35,6 +35,3 @@
 ## 📂 Projects
 I work on full-stack web applications, real-time systems (Socket.io), and APIs. Check out the repositories in my GitHub profile for samples.
 
----
-
-If you'd like, I can copy additional visual badges or the GitHub Actions workflow from Waleed-Zaheer/Waleed-Zaheer into this repo (for live stats and activity graphs). Tell me if you want the same exact visuals and I will add the assets and workflow files as well.
