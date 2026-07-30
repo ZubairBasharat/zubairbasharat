@@ -1,37 +1,112 @@
-### Hi there 👋 I am Zubair Basharat
-**A passionate Software Engineer**
+<div align="center">
 
+# Hi there, I'm Zubair Basharat 👋
 
-**Bio**
+### Senior Full Stack Developer · MERN & Laravel Ecosystems
 
-- 🔭 I’m currently working as a **Senior Full Stack Developer**
-- 🌱 Learning and experimenting with modern JavaScript frameworks and PHP ecosystems (React, Next.js, Node, Express, Laravel, CodeIgniter)
-- 👯 I’m open to collaborating on JavaScript and PHP projects — frontend, backend, and real-time features
-- 💬 Ask me about **React, Node, Express, Vue, Next.js, Tailwind CSS, Laravel, CodeIgniter, GraphQL, MongoDB, MySQL, PostgreSQL, RESTful and Socket APIs**
-- 📫 How to reach me: zubairbasharat14@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;React+%2B+Next.js+%2B+Node.js;Laravel+%26+CodeIgniter+Enthusiast;Open+to+Collaborating+on+Real-Time+Apps" alt="Typing SVG" />
+
+![Profile views](https://komarev.com/ghpvc/?username=ZubairBasharat&color=2EA3F2&style=flat)
+
+</div>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zubairbasharat14@gmail.com)
+## 🧑‍💻 About Me
 
+- 🔭 Currently working as a **Senior Full Stack Developer**
+- 🌱 Learning and experimenting with modern JavaScript frameworks and PHP ecosystems (React, Next.js, Node, Express, Laravel, CodeIgniter)
+- 👯 Open to collaborating on JavaScript and PHP projects — frontend, backend, and real-time features
+- 💬 Ask me about **React, Node, Express, Vue, Next.js, Tailwind CSS, Laravel, CodeIgniter, GraphQL, MongoDB, MySQL, PostgreSQL, RESTful and Socket APIs**
+- 📫 Reach me at **zubairbasharat14@gmail.com**
 
-## 💻 Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue-%2335495a.svg?logo=vuedotjs&logoColor=%234FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%230077B5.svg?logo=mysql&logoColor=white)
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubairbasharat/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubairbasharat14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZubairBasharat)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-35495a?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+
+**Backend & APIs**
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZubairBasharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zubair's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairBasharat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairBasharat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<a href="https://github.com/ZubairBasharat">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZubairBasharat&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZubairBasharat/ZubairBasharat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZubairBasharat/ZubairBasharat/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ZubairBasharat/ZubairBasharat/output/github-snake.svg" />
+</picture>
+
+</div>
+
+*(Generated by the `snake.yml` workflow in `.github/workflows/` — runs daily. Won't render until the workflow has completed at least one run.)*
 
 ---
 
 ## 📂 Projects
+
 I work on full-stack web applications, real-time systems (Socket.io), and APIs. Check out the repositories in my GitHub profile for samples.
 
+---
+
+<div align="center">
+
+💡 *Thanks for stopping by — feel free to reach out if you want to collaborate!*
+
+</div>
