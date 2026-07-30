@@ -75,10 +75,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairBasharat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<a href="https://github.com/ZubairBasharat">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZubairBasharat&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</a>
-
 </div>
 
 ---
