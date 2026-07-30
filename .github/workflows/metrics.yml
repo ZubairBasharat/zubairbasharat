@@ -1,0 +1,27 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write          # needed to push the generated SVG to the "output" branch
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats + top languages card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: output
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: "markup, programming"
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
